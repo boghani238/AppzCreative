@@ -1,9 +1,9 @@
 {
   "data": [
 {
-      "admob_interstitial":"/22387492205,22581684593/com.appz.navbar.back.home.recent.navigationbarcontrol.Interstitial0.1648464838",
-      "admob_native":"/22387492205,22581684593/com.appz.navbar.back.home.recent.navigationbarcontrol.Native0.1648464816",
-      "admob_banner":"/22387492205,22581684593/com.appz.navbar.back.home.recent.navigationbarcontrol.Banner0.1648464794",
+      "admob_interstitial":"ca-app-pub-4075273043051991/7109555440",
+      "admob_native":"ca-app-pub-4075273043051991/4483392106",
+      "admob_banner":"ca-app-pub-4075273043051991/5900415558",
       "ispurchaseItem":"1"
 }
 ]
