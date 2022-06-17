@@ -1,9 +1,9 @@
 {
   "data": [
 {
-      "admob_interstitial":"/21952429235,22678886094/TTS_WOXXIN_2_ALLDVDREMOTECONTROL_INTERSTITIAL",
-      "admob_native":"/21952429235,22678886094/TTS_WOXXIN_2_ALLDVDREMOTECONTROL_NATIVE_AD",
-      "admob_banner":"/21952429235,22678886094/TTS_WOXXIN_2_ALLDVDREMOTECONTROL_BANNER_AD",
+      "admob_interstitial":"ca-app-pub-1848739877572166/8929871090",
+      "admob_native":"ca-app-pub-1848739877572166/2992531592",
+      "admob_banner":"ca-app-pub-1848739877572166/4060687794",
       "ispurchaseItem":"1"
 }
 ]
